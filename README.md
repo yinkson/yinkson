@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yinkson
+- 👋 Hi, I’m @ycode
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning back-end
 - 💞️ I’m looking to collaborate on amazing and quality project
